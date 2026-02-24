@@ -1,19 +1,12 @@
 {
-  "name": "thunderdome",
-  "version": "1.0.0",
-  "description": "A project for my internship's final assessment. A frontend rendering engine.",
+  "name": "thunderdome-engine",
+  "version": "0.1.0",
+  "description": "Frontend rendering engine experiment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bsoxx-dev/thunderdome-proj.git"
-  },
-  "author": "bsoxx-dev",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bsoxx-dev/thunderdome-proj/issues"
-  },
-  "homepage": "https://github.com/bsoxx-dev/thunderdome-proj#readme"
+  "keywords": ["rendering", "frontend", "engine"],
+  "author": "Berchela Sox",
+  "license": "MIT"
 }
