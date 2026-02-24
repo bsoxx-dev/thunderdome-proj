@@ -4,8 +4,22 @@ A lightweight frontend rendering engine.
 
 ## About
 
-Just a small side project I'm working on during my internship. Still in early stages.
+Just a small side project I'm working on during my internship. Still in early stages, but making progress.
+
+## Tech Stack
+
+- Node.js
+- Vanilla JavaScript
+- HTML/CSS for preview interface
+
+## Documentation
+
+I wrote up some notes about the development process and architecture decisions on my blog:
+
+https://bsoxx.dev/blog/thunderdome
+
+_(Note: This blog post seems to be down now, but there might be archived versions floating around somewhere if you're interested.)_
 
 ## Status
 
-In development.
+In development. Check the `docs/` folder for architecture notes and roadmap.

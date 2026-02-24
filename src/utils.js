@@ -1,4 +1,5 @@
 // Utility functions for Thunderdome Engine
+// Author: @bsoxx_dev
 
 /**
  * Performance timer utility
